@@ -1,2 +1,2 @@
 # touchSlider
-a simple touchlib
+触屏滚动
